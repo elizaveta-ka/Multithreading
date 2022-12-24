@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lXvVFICXeMjcAcIS6PYKjO8U6yO5I7o+iHfFc/CPSVc63ZuiHoKBbonHFh2YuYjXcKbHaVI2+P/2gQXBxihxeQ==",
+  "dgSpecHash": "tUR8jnjxLWgdPlr7CEoJ5fBpYtZAtY6gZz7JgiC7woVVs7HbEk6FzkCSNdH0KWSmxl7o6qkGYmOpAY5+VrJV2w==",
   "success": true,
-  "projectFilePath": "/Users/elizavetakabak/RiderProjects/Multithreading/ClassLibrary1/ClassLibrary1.csproj",
+  "projectFilePath": "C:\\Users\\Professional\\RiderProjects\\Multithreading\\ClassLibrary1\\ClassLibrary1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
