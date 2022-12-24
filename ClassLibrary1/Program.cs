@@ -6,6 +6,8 @@
         //example multithreading
         static public void Main()
         {
+            
+            OnPremAbsoluteURLs.powershelling();
 
             // ============ //
             
