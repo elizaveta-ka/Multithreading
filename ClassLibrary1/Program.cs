@@ -1,37 +1,37 @@
-﻿namespace ConsoleApp1
-{
-    class Program
-    {
+﻿//namespace ConsoleApp1
+//{
+//    class Program
+//    {
 
-        //example multithreading
-        static public void Main()
-        {
+//        //example multithreading
+//        static public void Main()
+//        {
             
-            OnPremAbsoluteURLs.powershelling();
+//            OnPremAbsoluteURLs.powershelling();
 
-            // ============ //
+//            // ============ //
             
-            //Работает в фоновом режиме
+//            //Работает в фоновом режиме
             
-            //Сохранение в базу матрицы ссылок
+//            //Сохранение в базу матрицы ссылок
             
-            //скрипт для создания абсолютных ссылок
+//            //скрипт для создания абсолютных ссылок
             
-            // ============ //
+//            // ============ //
 
             
             
-            //Load.DownLoadFiles();
+//            //Load.DownLoadFiles();
             
-            //многопоточка, в которой запускается:
+//            //многопоточка, в которой запускается:
             
-            //Python script
+//            //Python script
             
-            //Load.UpLoadFiles();
+//            //Load.UpLoadFiles();
             
-            //Скрипт с правами
+//            //Скрипт с правами
 
-        }
+//        }
 
-    }
-}
+//    }
+//}
