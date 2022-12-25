@@ -10,7 +10,7 @@ using NLog.Extensions.Logging;
 //using System.Management.Automation;
 
 
-namespace ConsoleApp1;
+namespace ClassLibrary1;
 
 public class OnPremAbsoluteURLs
 {
@@ -27,7 +27,7 @@ public class OnPremAbsoluteURLs
     public void powershelling()
     {
         string ps;
-        ps = @"C:\Temp5\ps.ps1";
+        ps = @"C:\Users\Professional\Desktop\Programming\foo.ps1";
         //System.Diagnostics.Process
         //.Start(@"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe",
         //        ps + " http://stpa01z502/sites/TestOne" + " arg2" + " arg3");
